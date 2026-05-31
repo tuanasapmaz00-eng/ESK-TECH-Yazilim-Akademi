@@ -1,0 +1,6 @@
+1|gonül|571|Gönül Arıcı|ogretmen|
+2|esmanur|572|Esmanur Örsdemir|ogrenci|
+3|naz|573|Naz Efe|ogrenci|
+4|bilge|574|Bilge Sapmaz|veli|2
+5|tuana|2007|tuana sapmaz|ogretmen|
+6|ali|2006|ali yiğit|ogrenci|
